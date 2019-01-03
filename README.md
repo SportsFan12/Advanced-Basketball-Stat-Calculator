@@ -10,7 +10,9 @@ Requirements: As a mac user I used XCode to write my c program and nano which ca
 
 Example Text File (# = comments and should not be added to the actual file you use)
 
-Note: the first word is the stat, and the number that follows is the value of that stat
+Note: the first word is the stat, and the number that follows is the value of that stat, then a comment
+
+Note: example execution of program ./project file.txt (I used gcc -o project project.c to compile my program)
 
 MP,1, #Minutes Played
 
@@ -73,7 +75,3 @@ team_PPG,29, #Team Points Per Game
 opp_PPG,30, #Opponents Points Per Game
 
 threePoints,31, #Three Pointers Made
-
-
-
-note: example execution of program ./project file.txt (I used gcc -o project project.c to compile my program)
