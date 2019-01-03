@@ -13,33 +13,63 @@ Example Text File (# = comments and should not be added to the actual file you u
 Note: the first word is the stat, and the number that follows is the value of that stat
 
 MP,1, #Minutes Played
+
 PTS,2, #Points
+
 TRB,3, #Total Rebounds
+
 DRB,4, #Defensive Rebounds
+
 ORB,5, #Offensive Rebounds
+
 AST,6, #Assists
+
 STL,7, #Steals
+
 BLK,8, #Blocks
+
 FG,9, #Field Goals Made
+
 FGA,10, #Field Goals Attempted
+
 FT,11, #Free Throws Made
-FTA,12, #Free Throws Sttempted
+
+FTA,12, #Free Throws Attempted
+
 TOV,13, #Turnovers
+
 PF,14, #Personal Fouls
+
 team_AST,15, #Team Assists 
+
 team_FG,16, #Team Field Goals Made
+
 lg_ft,17, #League Average Free Throws Made
+
 lg_FTA,18,#League Average Free Throws Attempted
+
 lg_FG,19, #League Average Field Goald Made
+
 lg_FGA,20, #League Average Field Goals Attempted
+
 lg_PF,21, #League Average Personal Fouls
+
 lg_PTS,22, #League Average Points
+
 lg_AST,23, #League Average Assists
+
 lg_TRB,24, #League Average Total Rebounds
+
 lg_ORB,25, #League Average Offensive Rebounds
+
 lg_TOV,26, #League Average Turnovers
+
 lg_PPG,27, #League Average Points Per Game
+
 lg_aPER,28, #League Average Pace Adjusted PER
+
 team_PPG,29, #Team Points Per Game
+
 opp_PPG,30, #Opponents Points Per Game
+
 threePoints,31, #Three Pointers Made
