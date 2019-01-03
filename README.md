@@ -73,3 +73,5 @@ team_PPG,29, #Team Points Per Game
 opp_PPG,30, #Opponents Points Per Game
 
 threePoints,31, #Three Pointers Made
+
+note: example execution of program ./project file.txt (I used gcc -o project project.c to compile my program)
