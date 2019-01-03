@@ -90,7 +90,7 @@ double aPER;
 double PER;
 
 
-//makes each call look visually cleare by seperating them
+//makes each call look visually clearer by seperating them
 int symbols() {
     printf("****************************************************************************** \n");
     return 1; //no effect just for function purposes
