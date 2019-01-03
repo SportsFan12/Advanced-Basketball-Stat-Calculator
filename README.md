@@ -4,7 +4,7 @@ Date Started: 25/7/18
 
 Title: Advanced Basketball Stat Calculator
 
-Description: Analytic data has taken over the NBA and consequently it has changed the way we view the game.  Stats such as PER (Player Efficiency Rating), EFG (Effective Field Goal Percentage) and TS (True Shooting Percentage) have allowed us to better quantify the impact a player has on the game instead of the conventional stats of points, rebounds and assists.  Because of this I decided to make a calculator that takes a player's stats and calculate the player's advanced statistics.
+Description: Analytic data has taken over the NBA and consequently it has changed the way we view the game.  Stats such as PER (Player Efficiency Rating), EFG (Effective Field Goal Percentage) and TS (True Shooting Percentage) have allowed us to better quantify the impact a player has on the game instead of the conventional stats of points, rebounds and assists.  Because of this I decided to make a calculator that takes a player's stats and calculate the player's advanced statistics using C.
 
 Requirements: As a mac user I used XCode to write my c program and nano which can be used on your terminal to compile my program.  For windows or others I suggest using some sort of Linux compiler.  My program accepts a text file of the player's stats an example can be seen below or the exampleFile.txt in this repository.  It is important to note that the text file must be in this exact format in order for the program to run properly.
 
