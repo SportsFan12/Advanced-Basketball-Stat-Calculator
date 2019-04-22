@@ -1,3 +1,5 @@
+NOTE: Made entirely by myself and not inspired by a tutorial.
+
 Author: Marion Veloria (contact via mvel605@aucklanduni.ac.nz)
 
 Date Started: 25/7/18
